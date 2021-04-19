@@ -8,7 +8,7 @@ class App extends React.Component {
   state = { n: "", i: "" };
   // whatUserEntered = (val) => {
   //   console.log(val);
-  //   console.log("above is what user enterred");
+  //   console.log("above is what user enterred"); //
   // };
   // whatUserEntered2 = (val) => {
   //   console.log(val);
